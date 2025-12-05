@@ -1,0 +1,14 @@
+{
+  "total_shortage_hours": 386,
+  "total_bike_deficit": 4720,
+  "avg_shortage_hours_per_day": 6.327868852459017,
+  "avg_shortage_hours_per_cluster_day": 2.109289617486339,
+  "days_with_any_shortage": 53,
+  "days_without_shortage": 8,
+  "clusters_with_any_shortage": 2,
+  "clusters_without_shortage": 1,
+  "total_moves_to_clusters": 1160,
+  "moves_per_day_avg": 19.016393442622952,
+  "moves_per_day_min": 0,
+  "moves_per_day_max": 116
+}

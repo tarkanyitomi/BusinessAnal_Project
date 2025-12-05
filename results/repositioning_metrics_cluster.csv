@@ -1,0 +1,4 @@
+cluster,total_shortage_hours,total_bike_deficit,days_with_shortage,days_total,mean_initial_bikes
+0.0,221,1609.0,35,61,9.01639344262295
+2.0,0,0.0,0,61,15.311475409836065
+3.0,165,3111.0,31,61,22.65573770491803
